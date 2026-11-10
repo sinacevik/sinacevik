@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sina 👋
 
-<!--
-**sinacevik/sinacevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Graduate | Backend & Mobile Development**
 
-Here are some ideas to get you started:
+I'm a computer engineering graduate interested in building practical, reliable software. I enjoy working on backend APIs, mobile applications, and collaborative projects—and I'm continually improving my engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I've worked with
+
+**Languages:** C# · Python · TypeScript · SQL  
+**Backend:** ASP.NET Core · REST APIs · FastAPI  
+**Mobile:** React Native · Expo  
+**Data & tools:** PostgreSQL · Redis · Docker · Git · GitHub
+
+### 🚀 Featured team projects
+
+**✈️ [TravelAssistant](https://github.com/Travel-Assistant-Project/TravelAssistant)**  
+A cross-platform travel planning application. I contributed to the **.NET route-planning API**, including an endpoint, data model, database persistence, and integration with AI-generated trip plans.
+
+**🎙️ [PodcastAI](https://github.com/Travel-Assistant-Project/PodcastAI)**  
+An AI-assisted podcast application with mobile, backend, and AI service components. I worked on **authentication and user-management backend features**, including JWT authentication and PostgreSQL integration.
+
+### 🌱 Currently focusing on
+
+- Writing clean, maintainable backend services
+- Strengthening software architecture, testing, and Git workflows
+- Growing my skills in cross-platform mobile development
+
+### 🤝 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/sinacevik/) · [GitHub](https://github.com/sinacevik)
