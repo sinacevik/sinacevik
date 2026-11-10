@@ -6,7 +6,7 @@
 
 Building API-driven applications with an interest in clean architecture, data, and practical problem-solving.
 
-[Selected work](#selected-work) · [Technical stack](#technical-stack) · [GitHub](https://github.com/sinacevik)
+[Selected work](#selected-work) · [Technical stack](#technical-stack) · [LinkedIn](https://www.linkedin.com/in/sinacevik/) · [GitHub](https://github.com/sinacevik)
 
 </div>
 
@@ -48,6 +48,10 @@ Team project combining a mobile application, .NET backend, and Python-based AI s
 - Backend architecture and maintainable API design
 - Automated testing and CI/CD practices
 - End-to-end development workflows, from feature branches to pull requests
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/sinacevik/) · [GitHub](https://github.com/sinacevik)
 
 ---
 
