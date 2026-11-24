@@ -2,9 +2,9 @@
 
 # Sina Çevik
 
-**Computer Engineer · Backend & Mobile Development**
+**Computer Engineer · Junior .NET Backend Developer**
 
-Building API-driven applications with an interest in clean architecture, data, and practical problem-solving.
+Building REST APIs and database-backed services with C#, ASP.NET Core, Entity Framework Core, and PostgreSQL.
 
 [Selected work](#selected-work) · [Technical stack](#technical-stack) · [LinkedIn](https://www.linkedin.com/in/sinacevik/) · [GitHub](https://github.com/sinacevik)
 
@@ -14,23 +14,23 @@ Building API-driven applications with an interest in clean architecture, data, a
 
 ## About
 
-I'm a computer engineering graduate with hands-on experience developing backend features and collaborating on cross-platform applications. I enjoy understanding how systems fit together—from an API endpoint to the database behind it—and turning that understanding into working software.
+I'm a computer engineering graduate focused on .NET backend development. In team projects, I have delivered API endpoints, relational data models, database migrations, and authentication foundations through Git-based workflows. My internship experience also includes Python/OpenCV tooling and Linux V4L2 camera development.
 
 ## Selected work
 
 ### [TravelAssistant](https://github.com/Travel-Assistant-Project/TravelAssistant) · Travel planning application
 
-Cross-platform travel application built with React Native, Expo, and a .NET backend.
+Team-built travel application with a React Native client and ASP.NET Core backend.
 
-**My contribution:** Developed a route-planning API endpoint, including the route data model, database persistence, and integration with AI-generated trip plans.
+**My contribution:** Implemented an ASP.NET Core route-planning endpoint, its EF Core entity and migration, PostgreSQL persistence, and integration with the project's AI planning service.
 
 **Evidence:** [Merged pull request #7](https://github.com/Travel-Assistant-Project/TravelAssistant/pull/7)
 
 ### [PodcastAI](https://github.com/Travel-Assistant-Project/PodcastAI) · AI-assisted podcast platform
 
-Team project combining a mobile application, .NET backend, and Python-based AI service.
+Team project combining a React Native client, ASP.NET Core API, and Python-based AI service.
 
-**My contribution:** Worked on backend authentication and user-management functionality, including JWT authentication and PostgreSQL integration.
+**My contribution:** Built the initial JWT token service and authentication scaffolding, and added the EF Core/PostgreSQL user model and migration. The linked commit shows the exact scope of this contribution.
 
 **Evidence:** [Backend contribution](https://github.com/Travel-Assistant-Project/PodcastAI/commit/c2e44b6f67ae5e7b489c91bb4cf90d5b100d7076)
 
@@ -38,16 +38,17 @@ Team project combining a mobile application, .NET backend, and Python-based AI s
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | C#, Python, TypeScript, SQL |
-| **Backend** | ASP.NET Core, REST APIs, FastAPI |
-| **Mobile** | React Native, Expo |
-| **Data & tools** | PostgreSQL, Redis, Docker, Git, GitHub |
+| **Languages** | C#, Python, SQL, C |
+| **Backend** | ASP.NET Core, Entity Framework Core, REST APIs, JWT |
+| **Data** | PostgreSQL, Redis |
+| **Tools** | Docker, Linux, Git, GitHub |
+| **Additional experience** | OpenCV, NumPy, PySide6, FastAPI |
 
 ## Currently developing
 
-- Backend architecture and maintainable API design
-- Automated testing and CI/CD practices
-- End-to-end development workflows, from feature branches to pull requests
+- maintainable ASP.NET Core API design
+- automated and integration testing with xUnit
+- CI/CD and deployable Docker-based workflows
 
 ## Contact
 
@@ -55,4 +56,4 @@ Team project combining a mobile application, .NET backend, and Python-based AI s
 
 ---
 
-<sub>Explore my work in the repositories below, including collaborative projects and their original source code.</sub>
+<sub>The contribution links above point to the exact pull request or commit behind each claim.</sub>
